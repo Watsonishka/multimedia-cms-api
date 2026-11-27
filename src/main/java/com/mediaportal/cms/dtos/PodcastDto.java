@@ -1,6 +1,5 @@
-package com.mediaportal.cms.dto;
+package com.mediaportal.cms.dtos;
 
-import java.time.Duration;
 import java.util.List;
 
 public class PodcastDto {
